@@ -9,3 +9,5 @@
 - 💬 Languages: Kotlin, GLSL, Java, C++, JavaScript.
 
 My [Patreon](https://www.patreon.com/funprogramming), [Mastodon](https://genart.social/@hamoid), [Homepage](https://hamoid.com) and a [mailing list](buttondown.email/hamoid) to hear about my art projects.
+
+NOTE: I'm migrating my repositories to https://codeberg.org/hamoid/ so you know where to look if something disappears from here. I should have done this when Micro$oft bought GitHub, but better late than never.
